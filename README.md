@@ -7,6 +7,6 @@ Detect whether a person is wearing a face mask or not
 ### Contribution
 - <a href="https://github.com/">Keshab Kumar Sah</a>
 - <a href="https://github.com/Kingshukrox">Kingshuk Chatterjee</a>
-- <a href="https://github.com/">Kirtipal Singh Deora</a>
+- <a href="https://github.com/kirtipaldeora">Kirtipal Singh Deora</a>
 
 #### THIS CODE IS WORKING FOR INTEL GPUS ONLY IF YOU RUN THROUGH IDLE ( atleast for us )
